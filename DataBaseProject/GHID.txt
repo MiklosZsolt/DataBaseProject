@@ -1,0 +1,8 @@
+Colocviul final a fost creat in PHPSTORM(7.4) si XAMPP(7.4).
+
+Pentru ca scriptul sa functioneze este nevoie:
+-Sa se creeze utilizatorul "student2" cu parola "parola1234" in XAMPP,
+-Sa se creeze baza de date cu numele colocviufinal in XAMPP,
+-Sa se ruleze ori in PHPSTORM ori in XAMPP dupa ce sa selectat baza de date colocviufinal scriptul bd.sql, acces.sql, int4aprocedura.sql, int4bprocedura.sql, int6bprocedura.sql, in6bprocedurafaraparametri.sql,
+-Este important ca in PHPSTORM "CLI interpreter" ul accesat din meniul "settings" sa fie pus pe "PHP XAMPP",
+-Iar dupa rularea fisierului sesiune.php se introduce numele si parola gasita in fisierul acces.sql si se pot accesa interogarile din subiectul 14.
